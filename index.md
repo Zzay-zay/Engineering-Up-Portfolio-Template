@@ -1,5 +1,5 @@
 # Izaya first robot.
-In this program I have spent time building a sunfounder remote controled robot. The coding program that we used is called Arduino. The Ardunio Uno is used to control the robot for example the sensor, motors and recieve signals from the ir remote.
+In this program I have spent time building a sunfounder remote controled robot. The programming language that we used is called Arduino IDE. The Ardunio Uno is used to control the robot for example the sensor, motors and recieve signals from the IR remote.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,8 +8,7 @@ In this program I have spent time building a sunfounder remote controled robot. 
 ![Releavent name](https://i.imgur.com/kyty37z.jpeg)
 
 # Final milestone
-My Final Milestone, i've come a long way from where i have started 4 weeks ago and i have added some stuff to it. origanaly i only program my robot to be able so recieved infer red signals to be able to move by a ir remote pointing to the ardunio. Then gives signals to the breadboard and the senor. Also with my final milestone i wanted a buzzer to get signals to progam its self then wthin a 30-14cm distance it would beap but within in a 12-3cm distance it would have a faster rate of beaping. 
-
+ I have come a long way from where I have started 4 weeks ago and I have added some stuff to it. Origanaly I only programed my robot to be able so recieved infrared signals to be able to move by an infrared remote pointing to the Ardunio pointing in any direction. Then gives signals to the breadboard that transmits it to the senor to move backwards. Then i added a buzzer to my robot when the sensor detects something within a sertin distance. To progam to buzz wthin a 30-14cm distance it would beep but within in a 12-3cm distance it would have a faster rate of beeping. 
 # First Milestone 
 My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I also have enough knowledge to be able to talk about in detail what the Arduino Uno microcontroller is and how an H-Bridge works.
 
